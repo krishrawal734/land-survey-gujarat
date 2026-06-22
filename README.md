@@ -1,48 +1,68 @@
-# LandSurvey Gujarat
+<img width="1920" height="8251" alt="screencapture-land-survey-gujarat-enos-vercel-app-2026-06-22-18_00_14" src="https://github.com/user-attachments/assets/6534c1ea-741e-4a52-bfe3-9370a3cc5413" />
+https://land-survey-gujarat-enos.vercel.app/
 
-Premium frontend-only Real Estate & Land Survey website for Gujarat properties.
+# Land Survey Gujarat
 
-## Tech Stack
 
-- React.js + Vite
-- Tailwind CSS v4
-- Framer Motion
-- React Router
-- Lucide Icons
-- Swiper.js
+A modern and responsive web application built with React and Vite that provides information related to Gujarat land surveys, property records, village details, and land ownership resources.
 
-## Getting Started
+## 🌐 Live Demo
+
+https://land-survey-gujarat-welu.vercel.app/
+
+## 📖 About The Project
+
+Land Survey Gujarat is designed to simplify access to land-related information in Gujarat. The platform provides users with a clean and user-friendly interface to explore:
+
+- Land Survey Information
+- Property Listings
+- Village Details
+- Survey Records
+- Land Ownership Resources
+- Frequently Asked Questions
+
+The project focuses on providing a seamless experience with responsive design and fast performance.
+
+## ✨ Features
+
+- Responsive Design
+- Modern UI/UX
+- Property Listing Page
+- Property Detail Page
+- Land Survey Information
+- Search and Filter Functionality
+- FAQ Section
+- Smooth Scrolling Animations
+- Statistics Section
+- Mobile-Friendly Layout
+- Fast Loading with Vite
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- React Router DOM
+- JavaScript (ES6+)
+- CSS3
+- Vite
+
+### Deployment
+
+- Vercel
+
+## 📂 Project Structure
 
 ```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Build
-
-```bash
-npm run build
-npm run preview
-```
-
-## Pages
-
-- **Home** — Hero, featured properties, categories, services, testimonials, FAQ, contact
-- **Properties** — Advanced search, filters, pagination, sorting
-- **Property Detail** — Gallery, survey details, amenities, owner info, similar properties
-- **Land Survey** — Survey search, village maps, land calculator, verification status
-
-## Project Structure
-
-```
 src/
- ├── components/    # Reusable UI components
- ├── pages/         # Route pages
- ├── data/          # Dummy JSON data
- ├── layouts/       # Page layouts
- ├── routes/        # Route configuration
- ├── hooks/         # Custom React hooks
- └── utils/         # Helpers & constants
+├── assets/
+├── components/
+├── data/
+├── hooks/
+├── layouts/
+├── pages/
+├── routes/
+├── utils/
+├── App.jsx
+└── main.jsx
 ```
