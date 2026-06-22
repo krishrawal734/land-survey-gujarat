@@ -1,0 +1,364 @@
+[
+  {
+    "id": "prop-001",
+    "title": "Premium Agricultural Land near GIFT City",
+    "type": "Agricultural Land",
+    "price": 8500000,
+    "area": 8093.71,
+    "location": "GIFT City",
+    "village": "Raysan",
+    "surveyNumber": "1245/1",
+    "subDivision": "A",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+      "https://images.unsplash.com/photo-1628576835682-5d7c9f2e1a3b?w=800&q=80",
+      "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80"
+    ],
+    "featured": true,
+    "verified": true,
+    "description": "Prime agricultural land strategically located near GIFT City with excellent connectivity to Ahmedabad-Gandhinagar highway. Ideal for investment with high appreciation potential.",
+    "amenities": ["Road Access", "Electricity", "Water Connection", "Boundary Wall", "Clear Title"],
+    "owner": {
+      "name": "Rajesh Patel",
+      "phone": "+91 98765 43210",
+      "email": "rajesh.patel@email.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1645, "lng": 72.6389 },
+    "listedDate": "2025-11-15",
+    "status": "Available"
+  },
+  {
+    "id": "prop-002",
+    "title": "Residential Plot in Kudasan",
+    "type": "Residential Plot",
+    "price": 4200000,
+    "area": 167.23,
+    "location": "Kudasan",
+    "village": "Kudasan",
+    "surveyNumber": "892/3",
+    "subDivision": "B",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "featured": true,
+    "verified": true,
+    "description": "Well-located residential plot in developing Kudasan area with all basic amenities. Perfect for building your dream home near Gandhinagar.",
+    "amenities": ["Paved Road", "Street Lights", "Drainage", "N.A. Status"],
+    "owner": {
+      "name": "Priya Shah",
+      "phone": "+91 98250 12345",
+      "email": "priya.shah@email.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.2103, "lng": 72.6245 },
+    "listedDate": "2025-12-01",
+    "status": "Available"
+  },
+  {
+    "id": "prop-003",
+    "title": "Commercial Land on S.G. Highway",
+    "type": "Commercial Land",
+    "price": 25000000,
+    "area": 4046.86,
+    "location": "Gandhinagar",
+    "village": "Koba",
+    "surveyNumber": "567/2",
+    "subDivision": "A",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+    ],
+    "featured": true,
+    "verified": true,
+    "description": "High-visibility commercial land on S.G. Highway corridor. Excellent for retail, office complex, or mixed-use development.",
+    "amenities": ["Highway Frontage", "Commercial Zone", "Wide Road", "All Utilities"],
+    "owner": {
+      "name": "Gujarat Developers Pvt Ltd",
+      "phone": "+91 79 1234 5678",
+      "email": "info@gujdev.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.2156, "lng": 72.6512 },
+    "listedDate": "2025-10-20",
+    "status": "Available"
+  },
+  {
+    "id": "prop-004",
+    "title": "Industrial Plot in Sargasan GIDC",
+    "type": "Industrial Plot",
+    "price": 18500000,
+    "area": 3237.49,
+    "location": "Sargasan",
+    "village": "Sargasan",
+    "surveyNumber": "334/1",
+    "subDivision": "C",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+      "https://images.unsplash.com/photo-1565008576549-57569a49371d?w=800&q=80"
+    ],
+    "featured": false,
+    "verified": true,
+    "description": "Ready industrial plot in Sargasan GIDC with all approvals. Suitable for manufacturing, warehousing, or logistics operations.",
+    "amenities": ["GIDC Approved", "Power Connection", "Water Supply", "Fire NOC Ready"],
+    "owner": {
+      "name": "Industrial Estates Ltd",
+      "phone": "+91 79 2345 6789",
+      "email": "sales@iepl.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1987, "lng": 72.6123 },
+    "listedDate": "2025-11-28",
+    "status": "Available"
+  },
+  {
+    "id": "prop-005",
+    "title": "Luxury Farm House in Adalaj",
+    "type": "Farm House",
+    "price": 32000000,
+    "area": 12140.57,
+    "location": "Adalaj",
+    "village": "Adalaj",
+    "surveyNumber": "778/4",
+    "subDivision": "A",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80"
+    ],
+    "featured": true,
+    "verified": true,
+    "description": "Stunning farm house with landscaped gardens near Adalaj Stepwell. Features modern amenities with traditional Gujarati architecture.",
+    "amenities": ["Swimming Pool", "Garden", "Borewell", "Security", "Guest House", "Parking"],
+    "owner": {
+      "name": "Vikram Mehta",
+      "phone": "+91 98760 54321",
+      "email": "vikram.mehta@email.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1678, "lng": 72.5834 },
+    "listedDate": "2025-09-10",
+    "status": "Available"
+  },
+  {
+    "id": "prop-006",
+    "title": "Agricultural Land in Raysan Village",
+    "type": "Agricultural Land",
+    "price": 5500000,
+    "area": 6474.97,
+    "location": "Raysan",
+    "village": "Raysan",
+    "surveyNumber": "1123/2",
+    "subDivision": "B",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80"
+    ],
+    "featured": false,
+    "verified": true,
+    "description": "Fertile agricultural land in Raysan with canal irrigation access. Suitable for farming or long-term investment.",
+    "amenities": ["Canal Water", "Farm Road", "Fencing", "Soil Test Report"],
+    "owner": {
+      "name": "Kiran Desai",
+      "phone": "+91 98240 98765",
+      "email": "kiran.desai@email.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1723, "lng": 72.6298 },
+    "listedDate": "2025-12-10",
+    "status": "Available"
+  },
+  {
+    "id": "prop-007",
+    "title": "Corner Residential Plot GIFT City",
+    "type": "Residential Plot",
+    "price": 9800000,
+    "area": 232.26,
+    "location": "GIFT City",
+    "village": "Raysan",
+    "surveyNumber": "1456/1",
+    "subDivision": "A",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80"
+    ],
+    "featured": true,
+    "verified": true,
+    "description": "Premium corner plot in GIFT City with dual road frontage. High appreciation zone with world-class infrastructure nearby.",
+    "amenities": ["Corner Plot", "Dual Road", "GIFT City Zone", "Underground Utilities"],
+    "owner": {
+      "name": "GIFT Realty Partners",
+      "phone": "+91 79 3456 7890",
+      "email": "sales@giftrealty.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1598, "lng": 72.6412 },
+    "listedDate": "2026-01-05",
+    "status": "Available"
+  },
+  {
+    "id": "prop-008",
+    "title": "Commercial Plot near Infocity",
+    "type": "Commercial Land",
+    "price": 15000000,
+    "area": 2023.43,
+    "location": "Koba",
+    "village": "Koba",
+    "surveyNumber": "445/3",
+    "subDivision": "B",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80"
+    ],
+    "featured": false,
+    "verified": true,
+    "description": "Strategic commercial plot near Infocity Gandhinagar. Ideal for IT park, co-working space, or corporate office.",
+    "amenities": ["Infocity Proximity", "Commercial N.A.", "Wide Approach Road", "Fiber Ready Zone"],
+    "owner": {
+      "name": "Koba Commercial Estates",
+      "phone": "+91 79 4567 8901",
+      "email": "info@kobaestates.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.2201, "lng": 72.6489 },
+    "listedDate": "2025-11-02",
+    "status": "Available"
+  },
+  {
+    "id": "prop-009",
+    "title": "Large Agricultural Parcel Sargasan",
+    "type": "Agricultural Land",
+    "price": 12000000,
+    "area": 16187.43,
+    "location": "Sargasan",
+    "village": "Sargasan",
+    "surveyNumber": "223/1",
+    "subDivision": "A",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1500076656116-558758c59335?w=800&q=80",
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80"
+    ],
+    "featured": false,
+    "verified": true,
+    "description": "Expansive agricultural land parcel in Sargasan with potential for farmhouse development or agricultural business.",
+    "amenities": ["Internal Road", "Borewell", "Electricity Pole", "Survey Marked"],
+    "owner": {
+      "name": "Sargasan Land Holdings",
+      "phone": "+91 98230 11223",
+      "email": "holdings@sargasan.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1934, "lng": 72.6089 },
+    "listedDate": "2025-10-15",
+    "status": "Available"
+  },
+  {
+    "id": "prop-010",
+    "title": "NA Residential Plot Adalaj",
+    "type": "Residential Plot",
+    "price": 3800000,
+    "area": 139.35,
+    "location": "Adalaj",
+    "village": "Adalaj",
+    "surveyNumber": "667/2",
+    "subDivision": "C",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1605276374101-de7982db1739?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=800&q=80"
+    ],
+    "featured": false,
+    "verified": true,
+    "description": "Affordable NA residential plot in peaceful Adalaj village. Close to Adalaj Stepwell and main market.",
+    "amenities": ["NA Converted", "Paved Lane", "Near Market", "School Nearby"],
+    "owner": {
+      "name": "Mehul Joshi",
+      "phone": "+91 98765 67890",
+      "email": "mehul.joshi@email.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1645, "lng": 72.5812 },
+    "listedDate": "2026-01-20",
+    "status": "Available"
+  },
+  {
+    "id": "prop-011",
+    "title": "Industrial Shed Land Gandhinagar",
+    "type": "Industrial Plot",
+    "price": 22000000,
+    "area": 4856.23,
+    "location": "Gandhinagar",
+    "village": "Kudasan",
+    "surveyNumber": "991/1",
+    "subDivision": "A",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1565008576549-57569a49371d?w=800&q=80",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80"
+    ],
+    "featured": false,
+    "verified": true,
+    "description": "Large industrial plot suitable for manufacturing unit or warehouse. Located in designated industrial zone.",
+    "amenities": ["Industrial Zone", "Heavy Vehicle Access", "3-Phase Power", "Compound Wall"],
+    "owner": {
+      "name": "Gandhinagar Industries",
+      "phone": "+91 79 5678 9012",
+      "email": "contact@gandind.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.2056, "lng": 72.6312 },
+    "listedDate": "2025-12-18",
+    "status": "Available"
+  },
+  {
+    "id": "prop-012",
+    "title": "Weekend Farm House Raysan",
+    "type": "Farm House",
+    "price": 14500000,
+    "area": 8093.71,
+    "location": "Raysan",
+    "village": "Raysan",
+    "surveyNumber": "889/3",
+    "subDivision": "B",
+    "taluka": "Gandhinagar",
+    "district": "Gandhinagar",
+    "images": [
+      "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
+    ],
+    "featured": false,
+    "verified": true,
+    "description": "Charming weekend farm house with mango orchard. Perfect retreat just 20 minutes from Ahmedabad.",
+    "amenities": ["Mango Orchard", "Cottage", "BBQ Area", "Parking", "Borewell"],
+    "owner": {
+      "name": "Anita & Ravi Modi",
+      "phone": "+91 98250 33445",
+      "email": "modi.farm@email.com",
+      "verified": true
+    },
+    "coordinates": { "lat": 23.1689, "lng": 72.6256 },
+    "listedDate": "2025-11-25",
+    "status": "Available"
+  }
+]

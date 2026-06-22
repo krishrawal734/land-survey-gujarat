@@ -1,0 +1,32 @@
+[
+  {
+    "id": "faq-1",
+    "question": "What is a survey number and why is it important?",
+    "answer": "A survey number is a unique identifier assigned to each land parcel in revenue records. It is essential for verifying ownership, checking encumbrances, and ensuring the property has clear title before purchase."
+  },
+  {
+    "id": "faq-2",
+    "question": "How do you verify properties listed on your platform?",
+    "answer": "We verify each property through official 7/12 records, survey maps, ownership documents, and on-site inspection. Our certified surveyors cross-check survey numbers with the revenue department database."
+  },
+  {
+    "id": "faq-3",
+    "question": "Which areas in Gujarat do you cover?",
+    "answer": "We primarily cover Gandhinagar district including GIFT City, Raysan, Kudasan, Sargasan, Adalaj, Koba, and surrounding villages. We are expanding to Ahmedabad and Mehsana districts."
+  },
+  {
+    "id": "faq-4",
+    "question": "What documents are needed to buy agricultural land?",
+    "answer": "Key documents include 7/12 extract, 8A khata, sale deed, survey map, NA permission (if applicable), and encumbrance certificate. Our legal team assists with document verification and registration."
+  },
+  {
+    "id": "faq-5",
+    "question": "Do you provide land measurement services?",
+    "answer": "Yes, we offer professional land measurement using GPS equipment and traditional survey methods. You receive a detailed measurement report with plot boundaries and area calculations in Sq.Yd, Sq.M, and Acres."
+  },
+  {
+    "id": "faq-6",
+    "question": "How can I list my property on LandSurvey Gujarat?",
+    "answer": "Contact us through the form on this website or call our office. Our team will visit your property, verify documents, conduct survey verification, and list it on our platform with professional photography."
+  }
+]

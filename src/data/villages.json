@@ -1,0 +1,44 @@
+[
+  {
+    "id": "village-1",
+    "name": "Raysan",
+    "taluka": "Gandhinagar",
+    "surveyCount": 1245,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&q=80"
+  },
+  {
+    "id": "village-2",
+    "name": "Kudasan",
+    "taluka": "Gandhinagar",
+    "surveyCount": 892,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80"
+  },
+  {
+    "id": "village-3",
+    "name": "Sargasan",
+    "taluka": "Gandhinagar",
+    "surveyCount": 567,
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80"
+  },
+  {
+    "id": "village-4",
+    "name": "Adalaj",
+    "taluka": "Gandhinagar",
+    "surveyCount": 778,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=600&q=80"
+  },
+  {
+    "id": "village-5",
+    "name": "Koba",
+    "taluka": "Gandhinagar",
+    "surveyCount": 445,
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=80"
+  },
+  {
+    "id": "village-6",
+    "name": "GIFT City",
+    "taluka": "Gandhinagar",
+    "surveyCount": 356,
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80"
+  }
+]

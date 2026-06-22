@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Agricultural Land",
+    "icon": "Wheat",
+    "count": 450,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600&q=80",
+    "description": "Fertile farmland across Gandhinagar district"
+  },
+  {
+    "id": "cat-2",
+    "name": "Residential Plot",
+    "icon": "Home",
+    "count": 680,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80",
+    "description": "NA plots for your dream home"
+  },
+  {
+    "id": "cat-3",
+    "name": "Commercial Land",
+    "icon": "Building2",
+    "count": 320,
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&q=80",
+    "description": "High-value commercial opportunities"
+  },
+  {
+    "id": "cat-4",
+    "name": "Industrial Plot",
+    "icon": "Factory",
+    "count": 180,
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80",
+    "description": "GIDC approved industrial zones"
+  },
+  {
+    "id": "cat-5",
+    "name": "Farm House",
+    "icon": "TreePine",
+    "count": 95,
+    "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=600&q=80",
+    "description": "Luxury farm houses and weekend retreats"
+  }
+]

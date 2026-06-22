@@ -1,0 +1,38 @@
+[
+  {
+    "id": "test-1",
+    "name": "Amit Kumar",
+    "role": "Property Investor",
+    "location": "GIFT City",
+    "rating": 5,
+    "text": "LandSurvey Gujarat helped me find verified agricultural land near GIFT City. Their survey verification process gave me complete confidence before purchase.",
+    "avatar": "AK"
+  },
+  {
+    "id": "test-2",
+    "name": "Sneha Desai",
+    "role": "Home Buyer",
+    "location": "Kudasan",
+    "rating": 5,
+    "text": "Excellent service! They verified the survey number and legal documents for my residential plot in Kudasan. Highly professional team.",
+    "avatar": "SD"
+  },
+  {
+    "id": "test-3",
+    "name": "Harsh Patel",
+    "role": "Business Owner",
+    "location": "Gandhinagar",
+    "rating": 4,
+    "text": "Found the perfect commercial land on S.G. Highway through their platform. The property verification report was detailed and accurate.",
+    "avatar": "HP"
+  },
+  {
+    "id": "test-4",
+    "name": "Divya Shah",
+    "role": "Farm Owner",
+    "location": "Adalaj",
+    "rating": 5,
+    "text": "Their land measurement service was precise and the team was knowledgeable about local revenue records. Great experience overall.",
+    "avatar": "DS"
+  }
+]
